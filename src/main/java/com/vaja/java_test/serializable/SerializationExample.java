@@ -5,6 +5,9 @@ package com.vaja.java_test.serializable;
 import static com.vaja.java_test.serializable.SerializationUtil.deserialize;
 import static com.vaja.java_test.serializable.SerializationUtil.serialize;
 
+/**
+ * 为什么有serialVersionUID？
+ */
 public class SerializationExample {
 
     public static void main(String[] args) {
